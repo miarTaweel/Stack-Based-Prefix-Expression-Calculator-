@@ -21,7 +21,7 @@ The implementation of **stacks** ensures an optimal approach to handling mathema
 
 ## Example Usage
 
-To run the program, provide the input file "cities.txt" containing city data and Run the Program.c file , specify the cities to compare:
+To run the program, provide the input file "eqs.txt" containingthe mathematical expressions and Run the Program.c file :
 
 ![Alt text](Menu.png)
 
